@@ -1,14 +1,4 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-package ch10;
 
-/**
- *
- * @author NeelS
- */
 public class Ch10 {
         public static void main(String[] args) {
             Date abday = new Date(11,11,11);
